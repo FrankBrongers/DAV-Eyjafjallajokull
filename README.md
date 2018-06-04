@@ -1,7 +1,7 @@
 # DAV-Eyjafjallajokull
 Power consumption Amsterdam
 ---
-hoi
+Coole Frank
 
 ----
 Frank Brongers - 11873914  
